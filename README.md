@@ -2,5 +2,4 @@
 
 This is tHe start to Dirty Rick
 
-
-Now editing on the update-readme branch
+Updates made on moster on github befor release
